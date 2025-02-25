@@ -24,7 +24,7 @@ python -u run_longExp.py \
   --enc_in 7 \
   --des 'Exp' \
   --loss MAE \
-  --tree_loss MSE \ 
+  --tree_loss MSE \
   --num_leaves 7 \
   --tree_lr 0.01 \
   --tree_iter 200 \
@@ -47,7 +47,7 @@ python -u run_longExp.py \
   --enc_in 7 \
   --des 'Exp' \
   --loss MAE \
-  --tree_loss MSE \ 
+  --tree_loss MSE \
   --num_leaves 7 \
   --tree_lr 0.01 \
   --tree_iter 200 \
@@ -70,7 +70,7 @@ python -u run_longExp.py \
   --enc_in 7 \
   --des 'Exp' \
   --loss MAE \
-  --tree_loss MSE \ 
+  --tree_loss MSE \
   --num_leaves 7 \
   --tree_lr 0.01 \
   --tree_iter 200 \
@@ -93,7 +93,7 @@ python -u run_longExp.py \
   --enc_in 7 \
   --des 'Exp' \
   --loss MAE \
-  --tree_loss MSE \ 
+  --tree_loss MSE \
   --num_leaves 2 \
   --tree_lr 0.01 \
   --tree_iter 500 \
